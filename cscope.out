@@ -1,0 +1,3743 @@
+cscope 15 /Volumes/hdd/myspace/source/python/web/myplatform -q 0000000460 0000020291
+	@.ropeproject/config.py
+
+1 #Th ``
+cÚfig
+.
+py
+``
+
+4 
+def
+ 
+	$£t_´efs
+(
+´efs
+):
+
+7 #S³cify 
+which
+ 
+fes
+ 
+ªd
+ 
+fŞd”s
+ 
+to
+ 
+ignÜe
+ 
+š
+ 
+the
+ 
+´ojeù
+.
+
+8 #Chªge 
+to
+ 
+ignÜed
+ 
+»sourûs
+ 
+¬e
+ 
+nÙ
+ 
+added
+Ø
+the
+ 
+hi¡Üy
+ 
+ªd
+
+
+9 #VCSs. 
+Also
+ 
+they
+ 
+¬e
+ 
+nÙ
+ 
+»tuºed
+ 
+š
+ `
+Projeù
+.
+	`g‘_fes
+()`.
+
+10 #NÙ
+th©
+ ``?`` 
+ªd
+ ``*`` 
+m©ch
+ 
+®l
+ 
+ch¬aù”s
+ 
+but
+ 
+¦ashes
+.
+
+11 #'*.
+pyc
+': m©che '
+‹¡
+.pyc'‡nd '
+pkg
+/test.pyc'
+
+12 #'
+mod
+*.
+pyc
+': m©che '
+‹¡
+/
+mod1
+.pyc' but‚ot 'mod/1.pyc'
+
+13 #'.
+svn
+': m©che '
+pkg
+/.svn'‡nd‡ll of its children
+
+14 #'
+bud
+
+
+	@idc/__init__.py
+
+	@idc/adminx.py
+
+1 #-*- 
+codšg
+: 
+utf
+-8 -*-
+
+2 #C»©
+your
+ 
+v›ws
+ 
+h”e
+.
+
+3 
+impÜt
+ 
+xadmš
+
+
+4 
+äom
+ 
+xadmš
+ 
+impÜt
+ 
+	gv›ws
+
+
+5 #äom 
+xadmš
+.
+Ïyout
+ 
+impÜt
+ 
+Maš
+, 
+TabHŞd”
+, 
+Tab
+, 
+F›ld£t
+, 
+Row
+, 
+CŞ
+, 
+Aµ’dedText
+, 
+Side
+
+
+6 #äom 
+xadmš
+.
+¶ugšs
+.
+šlše
+ 
+impÜt
+ 
+IÆše
+
+
+7 #äom 
+xadmš
+.
+¶ugšs
+.
+b©ch
+ 
+impÜt
+ 
+B©chChªgeAùiÚ
+
+
+9 
+şass
+ 
+	$MašDashbßrd
+(
+objeù
+):
+
+10 
+·ss
+
+
+11 
+xadmš
+.
+s™e
+.(
+v›ws
+.
+webs™e
+.
+IndexV›w
+,
+MašDashbßrd
+)
+
+13 
+äom
+ 
+idc
+ 
+impÜt
+ 
+mod–s
+
+
+16 
+şass
+ 
+	$Ba£S‘tšg
+(
+objeù
+):
+
+17 
+’abË_themes
+ = 
+True
+
+
+18 
+u£_boÙsw©ch
+ = 
+True
+
+
+19 
+xadmš
+.
+s™e
+.(
+v›ws
+.
+Ba£AdmšV›w
+, 
+Ba£S‘tšg
+)
+
+22 
+şass
+ 
+	$GŞbeS‘tšg
+(
+objeù
+):
+
+23 
+globe_£¬ch_mod–s
+ = [
+mod–s
+.
+Ho¡
+, mod–s.
+Idc
+]
+
+24 
+globe_mod–s_icÚ
+ = {
+
+25 
+mod–s
+.
+Ho¡
+: 'Ï±İ', mod–s.
+Idc
+: 'cloud'
+
+26 
+	}
+}
+
+27 
+s™e_t™Ë
+ = ''
+
+28 
+xadmš
+.
+s™e
+.(
+v›ws
+.
+CommAdmšV›w
+, 
+GŞbeS‘tšg
+)
+
+30 
+şass
+ 
+	$IDCAdmš
+(
+objeù
+):
+
+31 
+li¡_di¥Ïy
+ = ('name','description','create_time')
+
+32 
+li¡_di¥Ïy_lšks
+ = ('name',)
+
+34 
+şass
+ 
+	$P”sÚAdmš
+(
+objeù
+):
+
+35 
+li¡_di¥Ïy
+ = ('name','job','telphone','mobil','mail','im')
+
+36 
+li¡_di¥Ïy_lšks
+ = ('name',)
+
+38 
+şass
+ 
+	$Com·nyAdmš
+(
+objeù
+):
+
+39 
+li¡_di¥Ïy
+ = ('name','address','telphone','person','el_person')
+
+40 
+li¡_di¥Ïy_lšks
+ = ('name',)
+
+42 
+şass
+ 
+	$CÚŒaùAdmš
+(
+objeù
+):
+
+43 
+li¡_di¥Ïy
+ = ('name','description','startdate','enddate','create_time','corp')
+
+44 
+li¡_di¥Ïy_lšks
+ = ('name',)
+
+46 
+şass
+ 
+	$IdcAdmš
+(
+objeù
+):
+
+47 
+li¡_di¥Ïy
+ = ('name','description','telphone','address')
+
+48 
+li¡_di¥Ïy_lšks
+ = ('name',)
+
+50 
+şass
+ 
+	$RackAdmš
+(
+objeù
+):
+
+51 
+li¡_di¥Ïy
+ = ('name','description','rackus','power')
+
+52 
+li¡_di¥Ïy_lšks
+ = ('name',)
+
+54 
+şass
+ 
+	$Ho¡Admš
+(
+objeù
+):
+
+55 
+li¡_di¥Ïy
+ = ('name','status','rack','model','cpu','core_num','hard_disk','hard_disk_size','memory')
+
+56 
+li¡_di¥Ïy_lšks
+ = ('name',)
+
+57 
+£¬ch_f›lds
+ = ['name', 'ip', 'description']
+
+58 
+li¡_f‹r
+ = ['status', 'brand', 'model',
+
+61 
+şass
+ 
+	$CÚš”Admš
+(
+objeù
+):
+
+62 
+li¡_di¥Ïy
+ = ('name','description','hosts','person')
+
+63 
+li¡_di¥Ïy_lšks
+ = ('name',)
+
+65 
+şass
+ 
+	$IPAdd»ssAdmš
+(
+objeù
+):
+
+66 
+li¡_di¥Ïy
+ = ('idc','ipaddr','ip_type','gateway')
+
+67 
+li¡_di¥Ïy_lšks
+ = ('ipaddr',)
+
+71 
+xadmš
+.
+s™e
+.(
+mod–s
+.
+Idc
+,
+IDCAdmš
+)
+
+72 
+xadmš
+.
+s™e
+.(
+mod–s
+.
+P”sÚ
+,
+P”sÚAdmš
+)
+
+73 
+xadmš
+.
+s™e
+.(
+mod–s
+.
+Com·ny
+,
+Com·nyAdmš
+)
+
+74 
+xadmš
+.
+s™e
+.(
+mod–s
+.
+CÚŒaù
+,
+CÚŒaùAdmš
+)
+
+75 
+xadmš
+.
+s™e
+.(
+mod–s
+.
+Rack
+,
+RackAdmš
+)
+
+76 
+xadmš
+.
+s™e
+.(
+mod–s
+.
+Ho¡
+,
+Ho¡Admš
+)
+
+77 
+xadmš
+.
+s™e
+.(
+mod–s
+.
+IPAdd»ss
+,
+IPAdd»ssAdmš
+)
+
+78 
+xadmš
+.
+s™e
+.(
+mod–s
+.
+CÚš”
+,
+CÚš”Admš
+)
+
+	@idc/models.py
+
+1 #-*- 
+codšg
+: 
+utf
+-8 -*-
+
+2 
+äom
+ 
+	gdjªgo
+.
+db
+ 
+impÜt
+ 
+	gmod–s
+
+
+5 #C»©
+your
+ 
+mod–s
+ 
+h”e
+.
+
+7 
+	gIP_TYPES
+ =(
+
+8 (0,
+	gu
+'å¤–ç½‘'),
+
+9 (1,
+	gu
+'å†…ç½‘'),
+
+10 (2,
+	gu
+'è¿œæ§'),
+
+11 (3,
+	gu
+'ä¸šåŠ¡'),
+
+13 
+	gRACK_SIZE
+ = (
+
+14 (0,
+	gu
+'42U'),
+
+15 (1,
+	gu
+'34U'),
+
+16 (2,
+	gu
+'12U'),
+
+19 
+	gSIDE_TYPE
+ =(
+
+20 (0,
+	gu
+'ç”²æ–¹'),
+
+21 (1,
+	gu
+'ä¹™æ–¹'),
+
+23 
+	gSERVER_STATUS
+ = (
+
+24 (0, 
+	gu
+"Normal"),
+
+25 (1, 
+	gu
+"Down"),
+
+26 (2, 
+	gu
+"No Connect"),
+
+27 (3, 
+	gu
+"Error"),
+
+29 
+	gSERVICE_TYPES
+ = (
+
+30 ('mÚ™”', 
+	gu
+"Moniter"),
+
+31 ('lvs', 
+	gu
+"LVS"),
+
+32 ('db', 
+	gu
+"Database"),
+
+33 ('ª®ysis', 
+	gu
+"Analysis"),
+
+34 ('admš', 
+	gu
+"Admin"),
+
+35 ('¡Üge', 
+	gu
+"Storge"),
+
+36 ('web', 
+	gu
+"WEB"),
+
+37 ('ema', 
+	gu
+"Email"),
+
+38 ('mix', 
+	gu
+"Mix"),
+
+41 
+şass
+ 
+	$Com·ny
+(
+mod–s
+.
+Mod–
+):
+
+43 
+Çme
+ å…¬å¸å
+
+44 
+add»ss
+ å…¬å¸åœ°å€
+
+45 
+‹ÍhÚe
+ å…¬å¸ç”µè¯
+
+46 
+³rsÚ
+ ä¸šåŠ¡è´Ÿè´£äºº
+
+47 
+–_³rsÚ
+ å…¬å¸æ³•äºº
+
+49 
+Çme
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=64,
+v”bo£_Çme
+ = 'å…¬å¸')
+
+50 
+add»ss
+ = 
+mod–s
+.
+	`TextF›ld
+(
+v”bo£_Çme
+ = 'åœ°å€')
+
+51 
+‹ÍhÚe
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=32,
+bÏnk
+=
+True
+,
+nuÎ
+=True,
+v”bo£_Çme
+='ç”µè¯')
+
+52 
+³rsÚ
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=20,
+v”bo£_Çme
+='è”ç³»äºº')
+
+53 
+–_³rsÚ
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=20,
+v”bo£_Çme
+ = 'ä¼ä¸šæ³•äºº')
+
+55 
+def
+ 
+	$__unicode__
+(
+£lf
+):
+
+56  'å…¬å¸åç§°ï¼š%s\tåœ°å€ï¼š%s\tç”µè¯ï¼š%s' % (
+£lf
+.
+Çme
+,£lf.
+add»ss
+,£lf.
+‹ÍhÚe
+)
+
+58 
+şass
+ 
+M‘a
+:
+
+59 
+v”bo£_Çme
+ = 'å…¬å¸'
+
+60 
+v”bo£_Çme_¶u¿l
+ = 
+v”bo£_Çme
+
+
+63 
+şass
+ 
+	$P”sÚ
+(
+mod–s
+.
+Mod–
+):
+
+65 
+Çme
+ äººå‘˜å
+
+66 
+job
+ èŒä½
+
+67 
+mob
+ ç§»åŠ¨ç”µè¯
+
+68 
+ma
+ é‚®ç®±
+
+69 
+im
+ å³æ—¶èŠå¤©å·¥å…·
+
+70 
+Com·ny
+ æ‰€å±å…¬å¸
+
+71 
+side
+ ç”²æ–¹å·²è¨€
+
+73 
+Çme
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=64,
+v”bo£_Çme
+ = 'å§“å')
+
+74 
+job
+ = 
+mod–s
+.
+	`TextF›ld
+(
+bÏnk
+=
+True
+,
+v”bo£_Çme
+ = 'èŒä½')
+
+75 
+‹ÍhÚe
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=20,
+bÏnk
+=
+True
+,
+nuÎ
+=True,
+v”bo£_Çme
+ = 'ç”µè¯')
+
+76 
+mob
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=32,
+bÏnk
+=
+True
+,
+nuÎ
+=True,
+v”bo£_Çme
+ = 'ç§»åŠ¨ç”µè¯')
+
+77 
+ma
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=32,
+bÏnk
+=
+True
+,
+nuÎ
+=True,
+v”bo£_Çme
+ = 'é‚®ä»¶')
+
+78 
+im
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=32,
+bÏnk
+=
+True
+,
+nuÎ
+=True,
+v”bo£_Çme
+ = 'èŠå¤©è½¯ä»¶')
+
+79 
+com·ny
+ = 
+mod–s
+.
+	`FÜeignKey
+(
+Com·ny
+,
+»Ï‹d_Çme
+ = 'com·ny',
+v”bo£_Çme
+ = 'äººå‘˜æ‰€åœ¨å…¬å¸')
+
+80 
+side
+ = 
+mod–s
+.
+	`Sm®lIÁeg”F›ld
+(
+choiûs
+=
+SIDE_TYPE
+,
+v”bo£_Çme
+ = 'ç”²æ–¹ä¹™æ–¹')
+
+82 
+def
+ 
+	$__unicode__
+(
+£lf
+):
+
+83  
+£lf
+.
+Çme
+
+
+85 
+şass
+ 
+M‘a
+:
+
+86 
+v”bo£_Çme
+ = 'äººå‘˜'
+
+87 
+v”bo£_Çme_¶u¿l
+ = 
+v”bo£_Çme
+
+
+91 
+şass
+ 
+	$CÚŒaù
+(
+mod–s
+.
+Mod–
+):
+
+93 
+Çme
+ åˆåŒå
+
+94 
+desütiÚ
+ åˆåŒæè¿°
+
+95 
+¡¬td©e
+ åˆåŒå¼€å§‹æ—¥æœŸ
+
+96 
+’dd©e
+ åˆåŒç»“æŸæ—¥æœŸ
+
+97 
+ü—‹time
+ åˆåŒæ·»åŠ æ—¥æœŸ
+
+98 
+cÜp
+ åˆåŒå…¬å¸(å¤šå¯¹å¤šå­—æ®µï¼Œä¸€ä¸ªå…¬å¸å¯ä»¥æœ‰å¤šä»½åˆåŒ,ä½†ä¸€ä»½åˆåŒåªèƒ½æœ‰ä¸€ä¸ªå…¬å¸)
+
+100 
+Çme
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=64,
+v”bo£_Çme
+ = 'åˆåŒå')
+
+101 
+desütiÚ
+ = 
+mod–s
+.
+	`TextF›ld
+(
+bÏnk
+=
+True
+,
+nuÎ
+=True,
+v”bo£_Çme
+ = 'åˆåŒæè¿°')
+
+102 
+¡¬td©e
+ = 
+mod–s
+.
+	`D©eF›ld
+(
+v”bo£_Çme
+ = 'åˆåŒå¼€å§‹æ—¥æœŸ')
+
+103 
+’dd©e
+ = 
+mod–s
+.
+	`D©eF›ld
+(
+v”bo£_Çme
+ = 'åˆåŒç»“æŸæ—¥æœŸ')
+
+104 
+cÜp
+ = 
+mod–s
+.
+	`FÜeignKey
+(
+Com·ny
+,
+»Ï‹d_Çme
+='cÜp',
+v”bo£_Çme
+ = 'ç­¾è®¢åˆåŒçš„ä¹™æ–¹å…¬å¸')
+
+105 
+ü—‹_time
+ = 
+mod–s
+.
+	`D©eF›ld
+(
+v”bo£_Çme
+ = 'åˆåŒåˆ›å»ºæ—¥æœŸ')
+
+107 
+def
+ 
+	$__unicode__
+(
+£lf
+):
+
+108  
+£lf
+.
+Çme
+
+
+111 
+şass
+ 
+M‘a
+:
+
+112 
+v”bo£_Çme
+ = 'åˆåŒ'
+
+113 
+v”bo£_Çme_¶u¿l
+ = 
+v”bo£_Çme
+
+
+116 
+şass
+ 
+	$Idc
+(
+mod–s
+.
+Mod–
+):
+
+118 
+Çme
+ 
+idc
+å
+
+119 
+desütiÚ
+ æœºæˆ¿æè¿°
+
+120 
+‹ÍhÚe
+ ç”µè¯
+
+121 
+add»ss
+ æœºæˆ¿åœ°å€
+
+122 
+ü—‹_time
+ æœºæˆ¿æ·»åŠ æ—¶é—´
+
+124 
+Çme
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=64,
+v”bo£_Çme
+ = 'æœºæˆ¿å')
+
+125 
+desütiÚ
+ = 
+mod–s
+.
+	`TextF›ld
+(
+bÏnk
+=
+True
+,
+v”bo£_Çme
+ = 'æœºæˆ¿æè¿°')
+
+127 
+‹ÍhÚe
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=32,
+v”bo£_Çme
+ = 'æœºæˆ¿ç”µè¯')
+
+128 
+add»ss
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=128,
+v”bo£_Çme
+ = 'æœºæˆ¿åœ°å€')
+
+129 
+ü—‹_time
+ = 
+mod–s
+.
+	$D©eF›ld
+()
+
+131 
+def
+ 
+	$__unicode__
+(
+£lf
+):
+
+132  
+£lf
+.
+Çme
+
+
+134 
+şass
+ 
+M‘a
+:
+
+135 
+v”bo£_Çme
+ = 'æœºæˆ¿'
+
+136 
+v”bo£_Çme_¶u¿l
+ = 
+v”bo£_Çme
+
+
+140 
+şass
+ 
+	$Rack
+(
+mod–s
+.
+Mod–
+):
+
+142 
+Çme
+ æœºæ¶åï¼Œæœºæ¶ç¼–å·å¯é‡å¤
+
+143 
+desütiÚ
+ æœºæŸœæè¿°
+
+144 
+idc
+ æœºæŸœæ‰€åœ¨idcå…³è”(å¤šå¯¹1å…³ç³»)
+
+145 
+pow”
+ æœºæŸœç”µåŠ›
+
+146 
+¿ckus
+ æœºæŸœ
+u
+æ•°
+
+147 
+CÚŒaù
+ åˆåŒ(å¤šä¸ªæœºæŸœå¯¹åº”ä¸€ä»½åˆåŒå±äºå¤šå¯¹1å…³ç³»)
+
+148 
+bªdwidth
+ æœºæŸœå¸¦å®½
+
+150 
+Çme
+ = 
+mod–s
+.
+	$Ch¬F›ld
+(
+max_Ëngth
+=64)
+
+151 
+desütiÚ
+ = 
+mod–s
+.
+	$TextF›ld
+(
+bÏnk
+=
+True
+)
+
+152 
+idc
+ = 
+mod–s
+.
+	`FÜeignKey
+(
+Idc
+,
+»Ï‹d_Çme
+ = '¿ck_idc',
+v”bo£_Çme
+ = 'æœºæŸœæ‰€åœ¨çš„IDCåå­—')
+
+153 
+cÚù
+ = 
+mod–s
+.
+	`FÜeignKey
+(
+CÚŒaù
+,
+»Ï‹d_Çme
+ = 'cÚù',
+v”bo£_Çme
+='æœºæŸœå¯¹åº”çš„åˆåŒ')
+
+154 
+bªdwidth
+ = 
+mod–s
+.
+	`IÁeg”F›ld
+(
+v”bo£_Çme
+ = 'å¸¦å®½')
+
+156 
+pow”
+=
+mod–s
+.
+	`TextF›ld
+(
+v”bo£_Çme
+='ç”µåŠ›ï¼ˆå®‰åŸ¹ï¼‰')
+
+157 
+¿ckus
+=
+mod–s
+.
+	`Sm®lIÁeg”F›ld
+(
+choiûs
+=
+RACK_SIZE
+,
+v”bo£_Çme
+ = 'æœºæ¶Uæ•°')
+
+159 
+def
+ 
+	$__unicode__
+(
+£lf
+):
+
+160  '%s,%s' % (
+£lf
+.
+Çme
+,£lf.
+desütiÚ
+)
+
+161 
+şass
+ 
+M‘a
+:
+
+162 
+v”bo£_Çme
+ = 'æœºæŸœ'
+
+163 
+v”bo£_Çme_¶u¿l
+ = 
+v”bo£_Çme
+
+
+166 
+şass
+ 
+	$IPAdd»ss
+(
+mod–s
+.
+Mod–
+):
+
+168 
+idc
+ 
+
+ æ‰€ä»¥åœ¨æœºæˆ¿å…³è”
+
+169 
+addr
+ 
+
+åœ°å€
+
+170 
+_ty³
+ åœ°å€ç±»å‹ï¼ˆå†…ç½‘ã€å¤–ç½‘ã€ä¸šåŠ¡ã€è¿œæ§ï¼‰
+
+172 
+idc
+ = 
+mod–s
+.
+	`FÜeignKey
+(
+Idc
+,
+»Ï‹d_Çme
+ = 'idc' ,
+v”bo£_Çme
+ = 'IPåœ°å€æ‰€åœ¨æœºæˆ¿')
+
+173 
+addr
+ = 
+mod–s
+.
+	`IPAdd»ssF›ld
+(
+v”bo£_Çme
+ = 'IPåœ°å€')
+
+174 
+_ty³
+ = 
+mod–s
+.
+	`Sm®lIÁeg”F›ld
+(
+choiûs
+ = 
+IP_TYPES
+,
+v”bo£_Çme
+ = 'IPç±»å‹')
+
+175 
+g©eway
+ = 
+mod–s
+.
+	`IPAdd»ssF›ld
+(
+v”bo£_Çme
+ = 'ç½‘å…³')
+
+177 
+def
+ 
+	$__unicode__
+(
+£lf
+):
+
+178  
+£lf
+.
+addr
+
+
+180 
+şass
+ 
+M‘a
+:
+
+181 
+v”bo£_Çme
+ = 'IPåœ°å€'
+
+182 
+v”bo£_Çme_¶u¿l
+ = 
+v”bo£_Çme
+
+
+186 
+şass
+ 
+	$Ho¡
+(
+mod–s
+.
+Mod–
+):
+
+188 
+Name
+ ä¸»æœºå
+
+189 
+¿ck
+ æ‰€åœ¨æœºæ¶
+
+190 
+¡©us
+ ä¸»æœºçŠ¶æ€
+
+191 
+maÿddr1
+ 
+mac
+åœ°å€1
+
+192 
+maÿddr2
+ 
+mac
+åœ°å€2
+
+193 
+maÿddr3
+ 
+mac
+åœ°å€3
+
+194 
+maÿddr4
+ 
+mac
+åœ°å€4
+
+195 
+b¿nd
+ æœåŠ¡å™¨å“ç‰Œ
+
+196 
+mod–
+
+
+197 
+ıu
+ æœåŠ¡å™¨
+CPU
+å‹å·
+
+198 
+cÜe_num
+ æœåŠ¡å™¨æ ¸æ•°
+
+199 
+h¬d_disk
+ æœåŠ¡å™¨ç¡¬ç›˜æ•°
+
+200 
+¿id_ÿrd
+ 
+RAID
+å¡å‹å·
+
+201 
+memÜy
+ å†…å­˜å¤§å°
+
+202 
+buyd©e
+ è´­ä¹°æ—¥æœŸ
+
+203 
+fœ¡_¿ck
+ é¦–æ¬¡ä¸Šæ¶
+
+204 
+Ï¡_¿ck
+ æœ€åä¸€æ¬¡ä¸Šæ¶
+
+205 
+sy¡em
+ ç³»ç»Ÿç±»å‹
+
+206 
+sy¡em_v”siÚ
+ ç³»ç»Ÿç‰ˆæœ¬
+
+207 
+sy¡em_¬ch
+ ç³»ç»Ÿæ¶æ„
+
+208 
+ü—‹_time
+ ä¸»æœºå½•å…¥æ—¶é—´
+
+209 
+gu¬ª‹e_d©e
+ è¿‡ä¿æ—¥æœŸ
+
+210 
+£rviû_ty³
+ åº”ç”¨ç±»å‹
+
+211 
+desütiÚ
+ æè¿°
+
+213 
+Çme
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+u
+"ä¸»æœºåå­—",
+max_Ëngth
+=64)
+
+214 
+¿ck
+ = 
+mod–s
+.
+	`FÜeignKey
+(
+Rack
+,
+»Ï‹d_Çme
+ = '¿ck',
+v”bo£_Çme
+ = 'ä¸»æœºæ‰€åœ¨æœºæŸœ')
+
+216 
+¡©us
+ = 
+mod–s
+.
+	$Sm®lIÁeg”F›ld
+(
+choiûs
+=
+SERVER_STATUS
+)
+
+217 
+addr1
+ = 
+mod–s
+.
+	`FÜeignKey
+(
+IPAdd»ss
+,
+»Ï‹d_Çme
+ = 'addrs1',
+v”bo£_Çme
+ = 'IPåœ°å€1',
+bÏnk
+ = 
+True
+,
+nuÎ
+=True)
+
+218 
+maÿdd1
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+u
+"Macåœ°å€1",
+max_Ëngth
+=18,
+bÏnk
+ = 
+True
+,
+nuÎ
+=True)
+
+219 
+addr2
+ = 
+mod–s
+.
+	`FÜeignKey
+(
+IPAdd»ss
+,
+»Ï‹d_Çme
+ = 'addrs2',
+v”bo£_Çme
+ = 'IPåœ°å€2',
+bÏnk
+ = 
+True
+,
+nuÎ
+=True)
+
+220 
+maÿdd2
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+u
+"Macåœ°å€2",
+max_Ëngth
+=18,
+bÏnk
+ = 
+True
+,
+nuÎ
+=True)
+
+221 
+addr3
+ = 
+mod–s
+.
+	`FÜeignKey
+(
+IPAdd»ss
+,
+»Ï‹d_Çme
+ = 'addrs3',
+v”bo£_Çme
+ = 'IPåœ°å€3',
+bÏnk
+ = 
+True
+,
+nuÎ
+=True)
+
+222 
+maÿdd3
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+u
+"Macåœ°å€3",
+max_Ëngth
+=18,
+bÏnk
+ = 
+True
+,
+nuÎ
+=True)
+
+223 
+addr4
+ = 
+mod–s
+.
+	`FÜeignKey
+(
+IPAdd»ss
+,
+»Ï‹d_Çme
+ = 'addrs4',
+v”bo£_Çme
+ = 'IPåœ°å€4',
+bÏnk
+ = 
+True
+,
+nuÎ
+=True)
+
+224 
+maÿdd4
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+u
+"Macåœ°å€4",
+max_Ëngth
+=18,
+bÏnk
+ = 
+True
+,
+nuÎ
+=True)
+
+226 
+b¿nd
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=64, 
+choiûs
+=[(
+i
+, iè˜
+	`š
+ (
+u
+"DELL", u"HP", u"Oth”")],
+v”bo£_Çme
+ = 'å“ç‰Œ')
+
+227 
+mod–
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=64,
+v”bo£_Çme
+ = 'å‹å·')
+
+228 
+ıu
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=64,
+v”bo£_Çme
+ = 'cpu')
+
+229 
+cÜe_num
+ = 
+mod–s
+.
+	`Sm®lIÁeg”F›ld
+(
+choiûs
+=[(
+i
+ * 2, "% CÜes" % (˜* 2)è˜
+š
+ 
+	`¿nge
+(1, 15)],
+v”bo£_Çme
+ ='æ ¸æ•°')
+
+230 
+h¬d_disk
+ = 
+mod–s
+.
+	`IÁeg”F›ld
+(
+v”bo£_Çme
+ = 'ç¡¬ç›˜ä¸ªæ•°')
+
+231 
+h¬d_disk_size
+ = 
+mod–s
+.
+	`IÁeg”F›ld
+(
+v”bo£_Çme
+ = 'ç¡¬ç›˜å®¹é‡')
+
+232 
+¿id_ÿrd
+ = 
+mod–s
+.
+	`TextF›ld
+(
+v”bo£_Çme
+ = 'raidå¡å‹å·')
+
+233 
+memÜy
+ = 
+mod–s
+.
+	`IÁeg”F›ld
+(
+v”bo£_Çme
+ = 'å†…å­˜ï¼ˆMBï¼‰')
+
+234 
+buyd©e
+ = 
+mod–s
+.
+	`D©eF›ld
+(
+v”bo£_Çme
+ = 'è´­ä¹°æ—¥æœŸ')
+
+235 
+gu¬ª‹e_d©e
+ = 
+mod–s
+.
+	`D©eF›ld
+(
+v”bo£_Çme
+ = 'è¿‡ä¿æ—¥æœŸ')
+
+237 
+fœ¡_¿ck
+ = 
+mod–s
+.
+	`D©eF›ld
+(
+v”bo£_Çme
+ = 'é¦–æ¬¡ä¸Šæ¶æ—¶é—´')
+
+238 
+Ï¡_¿ck
+ = 
+mod–s
+.
+	`D©eF›ld
+(
+v”bo£_Çme
+ = 'æœ€åä¸€æ¬¡ä¸Šæ¶æ—¶é—´')
+
+240 
+sy¡em
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+u
+"æ“ä½œç³»ç»Ÿç±»å‹", 
+max_Ëngth
+=32, 
+choiûs
+=[(
+i
+, iè˜
+	`š
+ (u"CentOS", u"FreeBSD", u"Ubuntu",u"Windows")])
+
+241 
+sy¡em_v”siÚ
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+u
+"ç³»ç»Ÿç‰ˆæœ¬",
+max_Ëngth
+=32)
+
+242 
+sy¡em_¬ch
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+u
+"ç³»ç»Ÿæ¶æ„",
+max_Ëngth
+=32, 
+choiûs
+=[(
+i
+, iè˜
+	`š
+ (u"x86_64", u"i386")])
+
+244 
+ü—‹_time
+ = 
+mod–s
+.
+	`D©eF›ld
+(
+v”bo£_Çme
+='å…¥å½•æ—¶é—´')
+
+245 
+£rviû_ty³
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=32, 
+choiûs
+=
+SERVICE_TYPES
+,
+v”bo£_Çme
+ = 'æœåŠ¡ç±»å‹')
+
+246 
+desütiÚ
+ = 
+mod–s
+.
+	`TextF›ld
+(
+v”bo£_Çme
+ = 'æè¿°')
+
+248 
+def
+ 
+	$__unicode__
+(
+£lf
+):
+
+249  
+£lf
+.
+Çme
+
+
+251 
+şass
+ 
+M‘a
+:
+
+252 
+v”bo£_Çme
+ = 'ä¸»æœº'
+
+253 
+v”bo£_Çme_¶u¿l
+ = 
+v”bo£_Çme
+
+
+257 
+şass
+ 
+	$CÚš”
+(
+mod–s
+.
+Mod–
+):
+
+259 
+Çme
+ ä¸šåŠ¡ç»„åå­—
+
+260 
+desütiÚ
+ ä¸šåŠ¡æè¿°
+
+261 
+ho¡s
+ ä¸šåŠ¡ä¸­å­˜åœ¨çš„ä¸»æœºè¡¨ï¼Œå¤šå¯¹å¤šå­—æ®µ
+
+262 
+³rsÚ
+ ä¸šåŠ¡è´Ÿè´£äºº
+
+264 
+Çme
+ = 
+mod–s
+.
+	`Ch¬F›ld
+(
+max_Ëngth
+=64,
+v”bo£_Çme
+ = 'ä¸šåŠ¡ç»„å')
+
+265 
+desütiÚ
+ = 
+mod–s
+.
+	`TextF›ld
+(
+u
+"æè¿°")
+
+266 
+ho¡s
+ = 
+mod–s
+.
+	`MªyToMªyF›ld
+(
+Ho¡
+,
+bÏnk
+=
+True
+,
+v”bo£_Çme
+='ä¸»æœºæˆå‘˜')
+
+267 
+³rsÚ
+ = 
+mod–s
+.
+	`FÜeignKey
+(
+P”sÚ
+,
+v”bo£_Çme
+ = 'ç®¡ç†äºº')
+
+269 
+def
+ 
+	$__unicode__
+(
+£lf
+):
+
+270  '%s,%s' % (
+£lf
+.
+Çme
+,£lf.
+desütiÚ
+)
+
+272 
+şass
+ 
+M‘a
+:
+
+273 
+v”bo£_Çme
+ = 'ä¸šåŠ¡å®¹å™¨'
+
+274 
+v”bo£_Çme_¶u¿l
+ = 
+v”bo£_Çme
+
+
+	@idc/tests.py
+
+2 
+This
+ 
+fe
+ 
+demÚ¡¿‹s
+ 
+wr™šg
+ 
+‹¡s
+ 
+usšg
+ 
+the
+ 
+un™‹¡
+ 
+	gmoduË
+. 
+The£
+ 
+wl
+ 
+·ss
+
+
+3 
+wh’
+ 
+you
+ 
+	grun
+ "manage.pyest".
+
+5 
+R•Ïû
+ 
+this
+ 
+w™h
+ 
+mÜe
+ 
+­´İrŸ‹
+ 
+‹¡s
+ 
+your
+ 
+	g­¶iÿtiÚ
+.
+
+8 
+äom
+ 
+	gdjªgo
+.
+‹¡
+ 
+impÜt
+ 
+Te¡Ca£
+
+
+11 
+şass
+ 
+	$Sim¶eTe¡
+(
+Te¡Ca£
+):
+
+12 
+def
+ 
+	$‹¡_basic_add™iÚ
+(
+£lf
+):
+
+14 
+Te¡s
+ 
+th©
+ 1 + 1 
+®ways
+ 
+equ®s
+ 2.
+
+16 
+£lf
+.
+	`as£¹Equ®
+(1 + 1, 2)
+
+	@manage.py
+
+1 #!/
+u¤
+/
+bš
+/
+’v
+ 
+pythÚ
+
+
+2 
+impÜt
+ 
+os
+
+
+3 
+impÜt
+ 
+sys
+
+
+5 
+	g__Çme__
+ == "__main__":
+
+6 
+os
+.
+’vœÚ
+.
+£tdeçuÉ
+("DJANGO_SETTINGS_MODULE", "myplatform.settings")
+
+8 
+äom
+ 
+	gdjªgo
+.
+	gcÜe
+.
+mªagem’t
+ 
+impÜt
+ 
+execu‹_äom_commªd_lše
+
+
+10 
+execu‹_äom_commªd_lše
+(
+sys
+.
+¬gv
+)
+
+	@myplatform/__init__.py
+
+	@myplatform/settings.py
+
+1 #DjªgØ
+£‰šgs
+ 
+my¶©fÜm
+ 
+´ojeù
+.
+
+2 
+impÜt
+ 
+os
+
+
+4 
+	gPROJECT_ROOT
+ = 
+os
+.
+·th
+.
+još
+(
+
+5 
+os
+.
+·th
+.
+»®·th
+(os.·th.
+dœÇme
+(
+__fe__
+)), os.
+·rdœ
+)
+
+8 
+	gDEBUG
+ = 
+True
+
+
+9 
+TEMPLATE_DEBUG
+ = 
+DEBUG
+
+
+11 
+ADMINS
+ = (
+
+15 
+	gMANAGERS
+ = 
+ADMINS
+
+
+17 
+DATABASES
+ = {
+
+19 'ENGINE': 'djªgo.db.back’ds.mysql', #Add 'po¡g»sql_psycİg2', 'mysql', 'sql™e3' 
+Ü
+ 'oracle'.
+
+20 'NAME': 'as£tdb', #O¸
+·th
+ 
+to
+ 
+d©aba£
+ 
+fe
+ 
+usšg
+ 
+sql™e3
+.
+
+21 #Th
+fŞlowšg
+ 
+£‰šgs
+ 
+¬e
+ 
+nÙ
+ 
+u£d
+ 
+w™h
+ 
+sql™e3
+:
+
+24 'HOST': 'loÿlho¡', #Em±y 
+loÿlho¡
+ 
+through
+ 
+domaš
+ 
+sock‘s
+ 
+Ü
+ '127.0.0.1' loÿlho¡hrough 
+TCP
+.
+
+25 'PORT': '3306', #S‘ 
+to
+ 
+em±y
+ 
+¡ršg
+ .
+
+29 #Ho¡s/
+domaš
+ 
+Çmes
+ 
+th©
+ 
+¬e
+ 
+v®id
+ 
+this
+ 
+s™e
+; 
+»quœed
+ 
+DEBUG
+ 
+is
+ 
+F®£
+
+
+30 #S“ 
+h‰ps
+:
+
+31 
+	gALLOWED_HOSTS
+ = []
+
+33 #LoÿÈ
+time
+ 
+zÚe
+ 
+this
+ 
+š¡®ÏtiÚ
+. 
+Choiûs
+ 
+ÿn
+ 
+be
+ 
+found
+ 
+h”e
+:
+
+35 #®though 
+nÙ
+ 
+®l
+ 
+choiûs
+ 
+may
+ 
+be
+ 
+avaabË
+ 
+Ú
+‡Î 
+İ”©šg
+ 
+sy¡ems
+.
+
+36 #IÀ
+a
+ 
+Wšdows
+ 
+’vœÚm’t
+ 
+this
+ 
+mu¡
+ 
+be
+ 
+£t
+ 
+to
+ 
+your
+ 
+sy¡em
+ 
+time
+ 
+zÚe
+.
+
+37 
+TIME_ZONE
+ = 'Asia/Shanghai'
+
+39 #Lªguag
+code
+ 
+this
+ 
+š¡®ÏtiÚ
+. 
+AÎ
+ 
+choiûs
+ 
+ÿn
+ 
+be
+ 
+found
+ 
+h”e
+:
+
+41 
+LANGUAGE_CODE
+ = 'zh-cn'
+
+43 
+SITE_ID
+ = 1
+
+45 #Ià
+you
+ 
+£t
+ 
+this
+ 
+to
+ 
+F®£
+, 
+Djªgo
+ 
+wl
+ 
+make
+ 
+some
+ 
+İtimiz©iÚs
+ 
+so
+ 
+as
+ 
+nÙ
+
+
+46 #tØ
+lßd
+ 
+the
+ 
+š‹º©iÚ®iz©iÚ
+ 
+machš”y
+.
+
+47 
+	gUSE_I18N
+ = 
+True
+
+
+49 #Ià
+you
+ 
+£t
+ 
+this
+ 
+to
+ 
+F®£
+, 
+Djªgo
+ 
+wl
+ 
+nÙ
+ 
+fÜm©
+ 
+d©es
+, 
+numb”s
+ 
+ªd
+
+
+50 #ÿËnd¬ 
+accÜdšg
+ 
+to
+ 
+the
+ 
+cu¼’t
+ 
+loÿË
+.
+
+51 
+	gUSE_L10N
+ = 
+True
+
+
+53 #Ià
+you
+ 
+£t
+ 
+this
+ 
+to
+ 
+F®£
+, 
+Djªgo
+ 
+wl
+ 
+nÙ
+ 
+u£
+ 
+timezÚe
+-
+aw¬e
+ 
+d©‘imes
+.
+
+54 
+	gUSE_TZ
+ = 
+True
+
+
+56 #AbsŞu‹ 
+fesy¡em
+ 
+·th
+ 
+to
+ 
+the
+ 
+dœeùÜy
+ 
+th©
+ 
+wl
+ 
+hŞd
+ 
+u£r
+-
+u¶ßded
+ 
+fes
+.
+
+58 
+MEDIA_ROOT
+ = ''
+
+60 #URL 
+th©
+ 
+hªdËs
+ 
+the
+ 
+medŸ
+ 
+£rved
+ 
+äom
+ 
+MEDIA_ROOT
+. 
+Make
+ 
+su»
+ 
+to
+ 
+u£
+ 
+a
+
+
+61 #Œašg 
+¦ash
+.
+
+63 
+	gMEDIA_URL
+ = ''
+
+65 #AbsŞu‹ 
+·th
+ 
+to
+ 
+the
+ 
+dœeùÜy
+ 
+fes
+ 
+should
+ 
+be
+ 
+cŞËùed
+o.
+
+67 #š 
+­ps
+' "static/" subdirectories‡nd in STATICFILES_DIRS.
+
+69 
+STATIC_ROOT
+ = "static/"
+
+71 #URL 
+´efix
+ 
+fes
+.
+
+73 
+	gSTATIC_URL
+ = '/static/'
+
+75 #Add™iÚ® 
+loÿtiÚs
+ 
+of
+ 
+fes
+
+
+76 
+STATICFILES_DIRS
+ = (
+
+77 #Puˆ
+¡ršgs
+ 
+h”e
+, 
+like
+ "/home/html/¡©ic" 
+Ü
+ "C:/www/django/static".
+
+78 #Alway 
+u£
+ 
+fÜw¬d
+ 
+¦ashes
+, 
+ev’
+ 
+Ú
+ 
+Wšdows
+.
+
+82 #Li¡ 
+of
+ 
+fšd”
+ 
+şas£s
+ 
+th©
+ 
+know
+ 
+how
+ 
+to
+ 
+fšd
+ 
+fes
+ 
+š
+
+
+83 #v¬iou 
+loÿtiÚs
+.
+
+84 
+	gSTATICFILES_FINDERS
+ = (
+
+87 #'
+djªgo
+.
+cÚŒib
+.
+¡©icfes
+.
+fšd”s
+.
+DeçuÉStÜageFšd”
+',
+
+90 #Mak
+this
+ 
+unique
+, 
+ªd
+ 
+dÚ
+'t share it with‡nybody.
+
+91 
+	gSECRET_KEY
+ = '2sd8b^a+oozp=o#(j6_5si&*-czpt5gjc((ke83m7@@dkveh-*'
+
+93 #Li¡ 
+of
+ 
+ÿÎabËs
+ 
+th©
+ 
+know
+ 
+how
+ 
+to
+ 
+impÜt
+ 
+‹m¶©es
+ 
+äom
+ 
+v¬ious
+ 
+sourûs
+.
+
+94 
+TEMPLATE_LOADERS
+ = (
+
+97 #'
+djªgo
+.
+‹m¶©e
+.
+lßd”s
+.
+eggs
+.
+Lßd”
+',
+
+100 
+	gMIDDLEWARE_CLASSES
+ = (
+
+107 #Uncomm’ˆ
+the
+ 
+Ãxt
+ 
+lše
+ 
+sim¶e
+ 
+şickjackšg
+ 
+´ÙeùiÚ
+:
+
+108 #'
+djªgo
+.
+middËw¬e
+.
+şickjackšg
+.
+XF¿meO±iÚsMiddËw¬e
+',
+
+111 
+	gROOT_URLCONF
+ = 'myplatform.urls'
+
+113 #PythÚ 
+dÙ‹d
+ 
+·th
+ 
+to
+ 
+the
+ 
+WSGI
+ 
+­¶iÿtiÚ
+ 
+u£d
+ 
+by
+ 
+Djªgo
+'s„unserver.
+
+114 
+WSGI_APPLICATION
+ = 'myplatform.wsgi.application'
+
+116 
+TEMPLATE_DIRS
+ = (
+
+117 
+os
+.
+·th
+.
+još
+(
+PROJECT_ROOT
+, "templates"),
+
+118 #Puˆ
+¡ršgs
+ 
+h”e
+, 
+like
+ "/home/html/djªgo_‹m¶©es" 
+Ü
+ "C:/www/django/templates".
+
+119 #Alway 
+u£
+ 
+fÜw¬d
+ 
+¦ashes
+, 
+ev’
+ 
+Ú
+ 
+Wšdows
+.
+
+123 
+	gINSTALLED_APPS
+ = (
+
+130 #Uncomm’ˆ
+the
+ 
+Ãxt
+ 
+lše
+ 
+to
+ 
+’abË
+h
+admš
+:
+
+131 #'
+djªgo
+.
+cÚŒib
+.
+admš
+',
+
+132 #Uncomm’ˆ
+the
+ 
+Ãxt
+ 
+lše
+ 
+to
+ 
+’abË
+ 
+admš
+ 
+docum’tiÚ
+:
+
+133 #'
+djªgo
+.
+cÚŒib
+.
+admšdocs
+',
+
+142 
+	gDATE_FORMAT
+ = 'Y-m-d'
+
+143 
+DATETIME_FORMAT
+ = 'Y-m-d H:i'
+
+144 
+TIME_FORMAT
+ = 'H:i'
+
+146 #A 
+§m¶e
+ 
+loggšg
+ 
+cÚfigu¿tiÚ
+. 
+The
+ 
+Úly
+ 
+ngibË
+†ogging
+
+147 #³rfÜmed 
+by
+ 
+this
+ 
+cÚfigu¿tiÚ
+ 
+is
+ 
+to
+ 
+£nd
+ 
+ª
+ 
+ema
+o
+
+148 #th
+s™e
+ 
+admšs
+ 
+Ú
+ 
+ev”y
+ 
+HTTP
+ 500 
+”rÜ
+ 
+wh’
+ 
+DEBUG
+=
+F®£
+.
+
+149 #S“ 
+h‰p
+:
+
+150 #mÜ
+d‘as
+ 
+Ú
+ 
+how
+ 
+to
+ 
+cu¡omize
+ 
+your
+ 
+loggšg
+ 
+cÚfigu¿tiÚ
+.
+
+151 
+LOGGING
+ = {
+
+153 'di§bË_exi¡šg_logg”s': 
+F®£
+,
+
+175 '´İag©e': 
+True
+,
+
+	@myplatform/urls.py
+
+1 
+äom
+ 
+	gdjªgo
+.
+	gcÚf
+.
+u¾s
+ 
+impÜt
+ 
+	g·‰”ns
+, 
+	gšşude
+, 
+u¾
+
+
+2 
+impÜt
+ 
+xadmš
+
+
+3 
+	gxadmš
+.
+	$autodiscov”
+()
+
+6 #Uncomm’ˆ
+the
+ 
+Ãxt
+ 
+two
+ 
+lšes
+ 
+to
+ 
+’abË
+h
+admš
+:
+
+7 #äom 
+djªgo
+.
+cÚŒib
+ 
+impÜt
+ 
+admš
+
+
+8 #admš.
+	`autodiscov”
+()
+
+10 
+u¾·‰”ns
+ = 
+	`·‰”ns
+('',
+
+12 #u¾(
+r
+'^$', 'my¶©fÜm.v›ws.home', 
+Çme
+='home'),
+
+13 #u¾(
+r
+'^my¶©fÜm/', 
+	`šşude
+('myplatform.foo.urls')),
+
+15 #Uncomm’ˆ
+the
+ 
+admš
+/
+doc
+ 
+lše
+ 
+b–ow
+ 
+to
+ 
+’abË
+‡dmš 
+docum’tiÚ
+:
+
+16 #u¾(
+r
+'^admš/doc/', 
+	`šşude
+('django.contrib.admindocs.urls')),
+
+18 #Uncomm’ˆ
+the
+ 
+Ãxt
+ 
+lše
+ 
+to
+ 
+’abË
+h
+admš
+:
+
+19 #u¾(
+r
+'^admš/', 
+	`šşude
+(
+admš
+.
+s™e
+.
+u¾s
+)),
+
+20 
+	`u¾
+(
+r
+'',
+	`šşude
+(
+xadmš
+.
+s™e
+.
+u¾s
+)),
+
+	@myplatform/wsgi.py
+
+2 
+WSGI
+ 
+cÚfig
+ 
+my¶©fÜm
+ 
+	g´ojeù
+.
+
+4 
+This
+ 
+moduË
+ 
+cÚšs
+ 
+the
+ 
+WSGI
+ 
+­¶iÿtiÚ
+ 
+u£d
+ 
+by
+ 
+	gDjªgo
+'s development server
+
+5 
+ªd
+ 
+ªy
+ 
+´oduùiÚ
+ 
+WSGI
+ 
+	gd•loym’ts
+. 
+It
+ 
+should
+ 
+expo£
+ 
+a
+ 
+	gmoduË
+-
+Ëv–
+ 
+v¬ŸbË
+
+
+6 
+	gÇmed
+ ``
+	g­¶iÿtiÚ
+``. 
+	gDjªgo
+'s ``runserver``‡nd ``runfcgi`` commands discover
+
+7 
+this
+ 
+­¶iÿtiÚ
+ 
+vŸ
+ 
+	gthe
+ ``
+	gWSGI_APPLICATION
+`` 
+	g£‰šg
+.
+
+9 
+Usu®ly
+ 
+you
+ 
+wl
+ 
+have
+ 
+the
+ 
+¡ªd¬d
+ 
+Djªgo
+ 
+WSGI
+ 
+­¶iÿtiÚ
+ 
+	gh”e
+, 
+but
+ 
+™
+ 
+®so
+
+
+10 
+might
+ 
+make
+ 
+£n£
+ 
+to
+ 
+»¶aû
+ 
+the
+ 
+whŞe
+ 
+Djªgo
+ 
+WSGI
+ 
+­¶iÿtiÚ
+ 
+w™h
+ 
+a
+ 
+cu¡om
+ 
+Úe
+
+
+11 
+th©
+ 
+Ï‹r
+ 
+d–eg©es
+ 
+to
+ 
+the
+ 
+Djªgo
+ 
+	gÚe
+. 
+FÜ
+ 
+	gexam¶e
+, 
+you
+ 
+could
+ 
+šŒoduû
+ 
+WSGI
+
+
+12 
+middËw¬e
+ 
+	gh”e
+, 
+Ü
+ 
+combše
+ 
+a
+ 
+Djªgo
+ 
+­¶iÿtiÚ
+ 
+w™h
+ 
+ª
+‡µliÿtiÚ 
+of
+ 
+ªÙh”
+
+
+13 
+	gäamewÜk
+.
+
+16 
+impÜt
+ 
+	gos
+
+
+18 #W
+deãr
+ 
+to
+ 
+a
+ 
+DJANGO_SETTINGS_MODULE
+ 
+®»ady
+ 
+š
+ 
+the
+ 
+’vœÚm’t
+. 
+This
+ 
+b»aks
+
+
+19 #ià
+ruÂšg
+ 
+muÉË
+ 
+s™es
+ 
+š
+ 
+the
+ 
+§me
+ 
+mod_wsgi
+ 
+´oûss
+. 
+To
+ 
+fix
+ 
+this
+, 
+u£
+
+
+20 #mod_wsg˜
+d«mÚ
+ 
+mode
+ 
+w™h
+ 
+—ch
+ 
+s™e
+ 
+š
+ 
+™s
+ 
+own
+ d«mÚ 
+´oûss
+, 
+Ü
+ 
+u£
+
+
+21 #os.
+’vœÚ
+["DJANGO_SETTINGS_MODULE"] = "myplatform.settings"
+
+22 
+	gos
+.
+	g’vœÚ
+.
+£tdeçuÉ
+("DJANGO_SETTINGS_MODULE", "myplatform.settings")
+
+24 #Thi 
+­¶iÿtiÚ
+ 
+objeù
+ 
+is
+ 
+u£d
+ 
+by
+ 
+ªy
+ 
+WSGI
+ 
+£rv”
+ 
+cÚfigu»d
+ 
+to
+ 
+u£
+ 
+this
+
+
+25 #fe. 
+This
+ 
+šşudes
+ 
+Djªgo
+'s development server, ifhe WSGI_APPLICATION
+
+26 #£‰šg 
+pošts
+ 
+h”e
+.
+
+27 
+äom
+ 
+	gdjªgo
+.
+	gcÜe
+.
+wsgi
+ 
+impÜt
+ 
+g‘_wsgi_­¶iÿtiÚ
+
+
+28 
+	g­¶iÿtiÚ
+ = 
+	$g‘_wsgi_­¶iÿtiÚ
+()
+
+30 #Aµly 
+WSGI
+ 
+middËw¬e
+ 
+h”e
+.
+
+31 #äom 
+h–lowÜld
+.
+wsgi
+ 
+impÜt
+ 
+H–loWÜldAµliÿtiÚ
+
+
+32 #­¶iÿtiÚ = 
+	`H–loWÜldAµliÿtiÚ
+(
+­¶iÿtiÚ
+)
+
+	@
+1
+.
+0
+10
+174
+.ropeproject/config.py
+idc/__init__.py
+idc/adminx.py
+idc/models.py
+idc/tests.py
+manage.py
+myplatform/__init__.py
+myplatform/settings.py
+myplatform/urls.py
+myplatform/wsgi.py

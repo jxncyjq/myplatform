@@ -1,0 +1,7 @@
+€}q(U
+idc.models]q(UIP_TYPESqUSERVICE_TYPESqUContractqUCompanyqUHostqU	RACK_SIZEqUSERVER_STATUSq	UPersonq
+URackqU	SIDE_TYPEqU	ContainerqU	IPAddressqUIdcqeU
+idc.adminx]q(U	RackAdminqU	HostAdminqUIPAddressAdminqUPersonAdminqUContainerAdminqUCompanyAdminqUBaseSettingqUContractAdminqUGolbeSettingqUIdcAdminqUIDCAdminqUMainDashboardqeUmyplatform.urls]qUurlpatternsqaUmyplatform.settings]q(UDATETIME_FORMATq UMANAGERSq!ULANGUAGE_CODEq"USITE_IDq#UTIME_FORMATq$UUSE_I18Nq%UMIDDLEWARE_CLASSESq&UROOT_URLCONFq'U
+SECRET_KEYq(USTATIC_ROOTq)U	TIME_ZONEq*UTEMPLATE_LOADERSq+U	DATABASESq,UWSGI_APPLICATIONq-UALLOWED_HOSTSq.UTEMPLATE_DIRSq/ULOGGINGq0USTATICFILES_FINDERSq1U
+STATIC_URLq2UUSE_L10Nq3UDEBUGq4UUSE_TZq5UINSTALLED_APPSq6UDATE_FORMATq7U
+MEDIA_ROOTq8USTATICFILES_DIRSq9UADMINSq:UTEMPLATE_DEBUGq;U	MEDIA_URLq<eU	idc.views]q=(UBaseSettingq>UMainDashboardq?UGolbeSettingq@eu.

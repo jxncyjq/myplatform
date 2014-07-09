@@ -1,0 +1,10 @@
+./.ropeproject/config.py
+./idc/__init__.py
+./idc/adminx.py
+./idc/models.py
+./idc/tests.py
+./manage.py
+./myplatform/__init__.py
+./myplatform/settings.py
+./myplatform/urls.py
+./myplatform/wsgi.py
